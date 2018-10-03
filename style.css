@@ -1,0 +1,39 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    max-width: 100%;
+    margin: 0;
+}
+
+.heading {
+    width: 80%;
+    font-size: 20px;
+    color: #748484;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container {
+    width: 100%;
+}
+
+
+.container div code {
+    display: block;
+    white-space: pre-line;
+    padding: 10px;
+    color: #000;
+    font-size: 15px;
+    background: #f9f2f4;
+}
