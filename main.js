@@ -14,9 +14,6 @@ var mobileData = [{
 
 
 
-console.dir("This is hete");
-console.table(mobileData);
-console.warn(mobileData);
 // regular
 console.log("Hi zuber keep doing");
 // interpolated
